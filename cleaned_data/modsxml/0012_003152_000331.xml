@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003152_000331</identifier>
+   <titleInfo>
+      <title>Idle wild mazurka</title>
+   </titleInfo>
+   <originInfo>
+      <dateIssued>1866</dateIssued>
+      <dateIssued encoding="edtf">1866</dateIssued>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79041725">Saint Louis (Mo.)</placeTerm>
+      </place>
+      <publisher>Rich J. Compton</publisher>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 score (6 pages)</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026430">sheet music</form>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>The University of Tennessee Sheet Music Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <name>
+      <namePart>Brown, T.M.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic authority="lcsh"
+             valueURI="http://id.loc.gov/authorities/subjects/sh85125211">Songs with piano</topic>
+   </subject>
+   <subject>
+      <topic authority="lcsh"
+             valueURI="http://id.loc.gov/authorities/subjects/sh85088865">Popular music</topic>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <typeOfResource>notated music</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sheet Music Collection</title>
+      </titleInfo>
+      <identifier>MS.1231</identifier>
+      <location>
+         <url>http://n2t.net/ark:/87290/v87942v8</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <shelfLocator>MS.1231, Box 2, Folder 35</shelfLocator>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
