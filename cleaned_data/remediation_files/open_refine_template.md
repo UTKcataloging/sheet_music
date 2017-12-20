@@ -16,11 +16,8 @@
 <identifier type="local">{{cells["adminDB"].value}}</identifier>
 <titleInfo><title>{{cells["title"].value}}</title></titleInfo>
 {{if(isBlank(cells["alternative_title"].value),'', '<titleInfo type="alternative"><title>' + cells['alternative_title'].value + '</title></titleInfo>')}}
-
-{{'<originInfo>' + if(isBlank(cells['date'].value), '', '<dateIssued>' + cells['date'].value + '</dateIssued>') + if(isBlank(cells['date2'].value), '', '<dateIssued encoding="edtf">' + cells['date2'].value + '</dateIssued>') + if(isBlank(cells['publication_location'].value), '', '<place><placeTerm') + (if(isBlank(cells['location_URI'].value) and cells['location_URI'].value = 'Watage (Ill.)', '', ' valueURI="' + cells['location_URI'].value + '">') + if(isBlank(cells['publication_location'].value), '', cells['publication_location'].value + '</placeTerm></place>') +
+{{'<originInfo>' + if(isBlank(cells['date'].value), '', '<dateIssued>' + cells['date'].value + '</dateIssued>') + if(isBlank(cells['date2'].value), '', '<dateIssued encoding="edtf">' + cells['date2'].value + '</dateIssued>') + if(isBlank(cells['publication_location'].value), '', '<place><placeTerm' + if(isBlank(cells['location_URI'].value), '', ' valueURI="' + cells['location_URI'].value +'"') + '>') + if(isBlank(cells['publication_location'].value), '', cells['publication_location'].value + '</placeTerm></place>') +
 if(isBlank(cells['publisher'].value), '', '<publisher>' + cells['publisher'].value + '</publisher>') + '</originInfo>'}}
-
-
 {{if(isBlank(cells['note'].value), '', '<note>' + cells['note'].value + '</note>')}}
 <physicalDescription><extent>{{cells['extent'].value}}</extent><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><internetMediaType>{{cells['format'].value}}</internetMediaType></physicalDescription>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>{{cells['digital_collection'].value}}</title></titleInfo></relatedItem>
@@ -54,9 +51,7 @@ if(isBlank(cells['publisher'].value), '', '<publisher>' + cells['publisher'].val
 <typeOfResource>{{cells['type1'].value}}</typeOfResource>
 <typeOfResource>{{cells['type2'].value}}</typeOfResource>
 <relatedItem displayLabel="Collection" type="host"><titleInfo><title>{{cells['collection_name'].value}}</title></titleInfo><identifier>{{cells['collection_identifier'].value}}</identifier><location><url>{{cells['ARK'].value}}</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
-<shelfLocator>{{cells['source'].value}}</shelfLocator>
-</location>
+{{'<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>' + if(isBlank(cells['source'].value), '', '<shelfLocator>' + cells['source'].value + '</shelfLocator>') + '</location>'}}
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="{{cells['rights_URI'].value}}">{{cells['rights'].value}}</accessCondition>
 </mods>
