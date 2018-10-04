@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003152_000790</identifier>
+   <identifier type="pid">utsmc:12686</identifier>
+   <titleInfo>
+      <title>Sleep on, dear love</title>
+   </titleInfo>
+   <originInfo>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79058874">Paris (France)</placeTerm>
+      </place>
+      <publisher>V. Durdilly &amp; Cie.</publisher>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 score (8 pages)</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026430">sheet music</form>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>The University of Tennessee Sheet Music Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no93038821">
+      <namePart>Pinsuti, Ciro, 1829-1888</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no2013062340">
+      <namePart>Jaxone, H. L. D'arcy</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Sherrington, Jose</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Leo, Rosa</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Crosmond, Helen</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Kemble, Eugenie</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Aubrey, Mr.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Carter, Henry</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Delma, Hubert</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Sanderini, Thea</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Bonetti, Signor </namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Martin, Amy F.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Austin, Annita</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Dunn, Sinclair</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic authority="lcsh"
+             valueURI="http://id.loc.gov/authorities/subjects/sh85125211">Songs with piano</topic>
+   </subject>
+   <subject>
+      <topic authority="lcsh"
+             valueURI="http://id.loc.gov/authorities/subjects/sh85088865">Popular music</topic>
+   </subject>
+   <typeOfResource>notated music</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <shelfLocator>University of Tennessee, Knoxville. Libraries</shelfLocator>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
