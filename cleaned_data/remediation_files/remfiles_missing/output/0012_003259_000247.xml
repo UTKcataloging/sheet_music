@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003259_000247</identifier>
+   <titleInfo>
+      <title>Minnehaha</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>To the memory of the victims of the Indian Massacre of 1862: Minnehaha: song &amp; chorus</title>
+   </titleInfo>
+   <originInfo>
+      <dateIssued>1863</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1863</dateIssued>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n81020369">Saint Paul (Minn.)</placeTerm>
+      </place>
+      <publisher>Munger Bros.</publisher>
+   </originInfo>
+   <note type="first line">Minnehaha, laughing water</note>
+   <physicalDescription>
+      <extent>1 score (8 pages)</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026430">sheet music</form>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n87822318">
+      <namePart>Wood, Frank</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n92054566">
+      <namePart>Chittenden, R. H. (Richard Handy), 1836-1911</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic authority="lcsh"
+             valueURI="http://id.loc.gov/authorities/subjects/sh85125211">Songs with piano</topic>
+   </subject>
+   <subject>
+      <topic authority="lcsh"
+             valueURI="http://id.loc.gov/authorities/subjects/sh85088865">Popular music</topic>
+   </subject>
+   <subject>
+      <topic authority="lcsh"
+             valueURI="http://id.loc.gov/authorities/subjects/sh85035497">Dakota Indians--Wars, 1862-1865</topic>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>University of Tennessee Sheet Music Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>notated music</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <shelfLocator>M1621 .W6M5</shelfLocator>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

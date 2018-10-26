@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003259_000274</identifier>
+   <titleInfo>
+      <title>Tennessee</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Tennessee: (That's the place for me)</title>
+   </titleInfo>
+   <originInfo>
+      <dateIssued>1905</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1905</dateIssued>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79007751">New York (N.Y.)</placeTerm>
+      </place>
+      <publisher>Shapiro, Remick &amp; Co.</publisher>
+   </originInfo>
+   <note type="first line">On a bench out in the park</note>
+   <physicalDescription>
+      <extent>1 score (6 pages)</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026430">sheet music</form>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n92057570">
+      <namePart>Schwartz, Jean, 1878-1956</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n98009450">
+      <namePart>Williams, Harry, 1879-1922</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no98132927">
+      <namePart>Starmer</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ill">Illustrator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Irwin, May</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic authority="lcsh"
+             valueURI="http://id.loc.gov/authorities/subjects/sh85125211">Songs with piano</topic>
+   </subject>
+   <subject>
+      <topic authority="lcsh"
+             valueURI="http://id.loc.gov/authorities/subjects/sh85088865">Popular music</topic>
+   </subject>
+   <subject>
+      <topic authority="lcsh"
+             valueURI="http://id.loc.gov/authorities/subjects/sh85061737">Homesickness</topic>
+   </subject>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n79060965">Tennessee</geographic>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>University of Tennessee Sheet Music Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <typeOfResource>notated music</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <shelfLocator>M 1658 .T2S3</shelfLocator>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
