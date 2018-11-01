@@ -22,7 +22,7 @@
    </physicalDescription>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
-         <title>The University of Tennessee Sheet Music Collection</title>
+         <title>University of Tennessee Sheet Music Collection</title>
       </titleInfo>
    </relatedItem>
    <name authority="naf"
@@ -52,7 +52,6 @@
    <typeOfResource>text</typeOfResource>
    <location>
       <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
-      <shelfLocator>University of Tennessee, Knoxville. Libraries</shelfLocator>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
