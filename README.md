@@ -5,7 +5,8 @@
 ```
 Metadata for the UT Sheet Music collection (utsmc) migrated from PDS to Islandora.
 
-|-- cleaned_data      
+|-- cleaned_data
+    |-- collection_record.xml
     |-- modsbyPID
         |-- utsmc:85.xml
         |-- etc.
