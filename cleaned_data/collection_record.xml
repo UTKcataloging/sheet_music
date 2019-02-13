@@ -43,13 +43,23 @@
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026430">sheet music</form>
         <extent>2371 compositions</extent>
     </physicalDescription>
-    <subject>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85125211">Songs with piano</topic>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088865">Popular music</topic>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85144994">Waltzes</topic>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85080997">Marches (Piano)</topic>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104482">Polkas</topic>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008113367">World War, 1914-1918--Songs and music</topic>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85125211">
+        <topic>Songs with piano</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088865">
+        <topic>Popular music</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85144994">
+        <topic>Waltzes</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85080997">
+        <topic>Marches (Piano)</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104482">
+        <topic>Polkas</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008113367">
+        <topic>World War, 1914-1918--Songs and music</topic>
     </subject>
     <relatedItem displayLabel="Collection" type="host">
         <titleInfo>
