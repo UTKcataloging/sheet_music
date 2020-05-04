@@ -7,7 +7,7 @@
    <identifier type="local">0012_000497_001022</identifier>
    <identifier type="pid">utsmc:9332</identifier>
    <titleInfo>
-      <title>Good morning, mr. Zip-zip-zip!</title>
+      <title>Good morning, Mr. Zip-zip-zip!</title>
    </titleInfo>
    <originInfo>
       <place>
@@ -25,8 +25,8 @@
          <title>University of Tennessee Sheet Music Collection</title>
       </titleInfo>
    </relatedItem>
-   <name>
-      <namePart>Lloyd, Robert</namePart>
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020055572">
+      <namePart>Lloyd, Robert (Military music composer)</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
