@@ -25,8 +25,8 @@
          <title>University of Tennessee Sheet Music Collection</title>
       </titleInfo>
    </relatedItem>
-   <name>
-      <namePart>Hewitt, George W.</namePart>
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n81072549">
+      <namePart>Hewitt, George Washington</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
